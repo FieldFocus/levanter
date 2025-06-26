@@ -1,9 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "^[.,!]",
+    "SESSION_ID": "levanter_2473225f3ef6f449bab0afe8b2cfb3462a",
+    "PREFIX": "",
     "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "STICKER_PACKNAME": "❤️,KING",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -14,7 +14,7 @@
     "ANTIWORDS_MSG": "_AntiWord Detected &mention kicked_",
     "ANTIWORDS": "word",
     "REJECT_CALL": "false",
-    "AUTO_STATUS_VIEW": "false",
+    "AUTO_STATUS_VIEW": "true",
     "SEND_READ": "false",
     "AJOIN": "false",
     "GPT": "free",
