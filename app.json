@@ -101,7 +101,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
